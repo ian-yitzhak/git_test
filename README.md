@@ -1,6 +1,6 @@
 This is Ian Onyango git project
 
-Create your github repo then copy the SSH url, make a folder then change the directory navigating through the folder type git clone SSH URL
+Create your github repo then copy the SSH url, make a folder then change the directory,  in the directory type git clone (SSH URL)
 
 add README.md file(type touch RAEDME.md) then type git status to check if its stagged it will show a green color when stagged, else red
 
